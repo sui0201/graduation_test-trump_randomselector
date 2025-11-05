@@ -1,0 +1,2 @@
+# graduation_test-trump_randomselector
+web研の課題。トランプをランダムに選ぶ
