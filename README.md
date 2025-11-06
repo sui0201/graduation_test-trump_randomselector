@@ -21,9 +21,8 @@ web研の課題。神経衰弱。
 - typescriptやtilewindcssなどに関するの技術サイト(qiita,zenn etc.)
   https://tailwindcss.com/docs/installation/using-vite
 - 研修で配布された資料、コード
+-  *chatGPTによる可読性向上の補助*
 
-
-#### *chatGPTによる可読性向上の補助*
 
 
 
