@@ -10,7 +10,7 @@ web研の課題。神経衰弱。
 - ゲームである。
 - 神経衰弱ができる。
 - 1つのデバイス内で他人との対戦はできないが、
-　複数のデバイス同士で手数の多さを競うことができる。
+複数のデバイス同士で手数の多さを競うことができる。
 
 ## 使用技術
 - typescript
@@ -21,5 +21,6 @@ web研の課題。神経衰弱。
 - typescriptやtilewindcssなどに関するの技術サイト(qiita,zenn etc.)
   https://tailwindcss.com/docs/installation/using-vite
 - 研修で配布された資料、コード
+
 
 ### chatGPTによる可読性向上の補助
