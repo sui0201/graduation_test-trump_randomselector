@@ -42,7 +42,7 @@ function CardComponent({
         ${large ? "w-48 h-64 sm:w-56 sm:h-72" : "w-16 h-24 sm:w-20 sm:h-28 md:w-24 md:h-36"}
       `}
     >
-      <div className={`duration-500 ease-in-out transform transition-transform relative w-full h-full rounded-lg shadow-md
+      <div className={`duration-500 ease-in-out transform transition-transform relative w-full h-full rounded-lg
           ${isflip || isMatched ? "rotate-y-180" : ""}
           ${isMatched ? "ring-4 ring-green-300" : ""}
         `}
@@ -198,4 +198,5 @@ export default function Board() {
     </div>
   );
 }
+
 
