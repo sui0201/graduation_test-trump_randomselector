@@ -1,5 +1,5 @@
 "use client";
-import React, { useMemo, useRef, useState } from "react";
+import { useMemo, useRef, useState } from "react";
 
 type Mark = "♤" | "◆" | "♧" | "♥";
 
@@ -198,3 +198,4 @@ export default function Board() {
     </div>
   );
 }
+
