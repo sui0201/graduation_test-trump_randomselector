@@ -169,7 +169,7 @@ export default function Board() {
             <div>マッチ数: {match.size}/{pair}</div>
           </div>
           <div className="flex gap-2">
-            <button onClick={restart} className="px-3 py-1 bg-blue-600 hover:bg-blue-700 rounded-md text-sm">
+            <button onClick={restart} className="px-3 py-1 bg-blue-600 hover:bg-blue-700 rounded-md">
               リスタート
             </button>
           </div>
@@ -198,5 +198,3 @@ export default function Board() {
     </div>
   );
 }
-
-
